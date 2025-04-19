@@ -1,2 +1,2 @@
 # qbiz-dlt-dev
-Testing DLT locally
+Test to load chess data into qbiz S3 bucket
